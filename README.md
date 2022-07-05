@@ -12,3 +12,6 @@
 # My Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/909623557670187090)](https://discord.com/users/909623557670187090)
+
+# how to use
+download the zip and extract using winwar. open the folder and run rename.vbs to make sure it works. If it works then send to your friends or family. If the file isnt working please contact me through my discord as shown in the "# My discord " section
